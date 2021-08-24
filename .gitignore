@@ -1,1 +1,7 @@
 
+# .gitignore
+
+node_modules/
+log/
+package_*/
+tmp.*
