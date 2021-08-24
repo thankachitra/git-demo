@@ -1,1 +1,1 @@
-asdfconflict
+This is my rebase test
